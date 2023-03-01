@@ -1,0 +1,5 @@
+Escriu un resumen detallat i precis i mantenguent els detalls del seguent text:
+
+<<SUMMARY>>
+
+RESUMEN:
